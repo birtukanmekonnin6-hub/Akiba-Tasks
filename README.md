@@ -1,16 +1,29 @@
-# Akiba Week 1 Python
+# Week 1 - Python Programming
 
-This repository contains my Python programming tasks for Week 1.
+## Student Information
 
-## Tasks
+- **Name:** Birtukan Mekonin
+- **GitHub Username:** birtukanmekonnin6-hub
+- **Bootcamp:** Akiba
+- **Week:** 1
 
-1. Personal Introduction
-2. Student ID
-3. Rectangle
-4. Temperature Converter
-5. Shopping Receipt
-6. Employee Payslip
-7. Travel Planner
-8. Exam Report
-9. Currency Exchange
-10. BMI Calculator
+## Completed Tasks
+
+- [x] Personal Introduction
+- [x] Student ID Card
+- [x] Rectangle Workshop
+- [x] Temperature Station
+- [x] Shopping Receipt
+- [x] Employee Payslip
+- [x] Travel Planner
+- [x] Exam Result Report
+- [x] Currency Exchange
+- [x] BMI
+- [x] Student Profile System
+
+## What I Learned
+
+This week I learned the fundamentals of Python programming. I practiced
+variables, data types, input, output, arithmetic operators, and formatted
+output. I also learned how to create a GitHub repository, organize my
+programming files, and submit my programming work using Git and GitHub.
