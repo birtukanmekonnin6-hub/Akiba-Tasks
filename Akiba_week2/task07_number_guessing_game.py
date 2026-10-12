@@ -6,6 +6,6 @@ while guess!= number:
         print("Game over")
     count +=1
     guess= int(input("try again! enter the number between 1 and 10: "))
-
-print("congratulation")
-print(f"you guessed the number in {count} attempts.")
+if guess==number:
+    print("congratulation")
+    print(f"you guessed the number in {count} attempts.")
