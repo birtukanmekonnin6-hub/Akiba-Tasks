@@ -1,4 +1,3 @@
-
 total = 0
 even_count = 0
 odd_count = 0
